@@ -24,8 +24,9 @@ I am looking to collaborate on development projects that involve software/applic
 
 ## 📫 Contact Me
 Feel free to reach out to me on:
-- ![Instagram](https://img.shields.io/badge/-mayank.jonwal02-e4405f?style=flat-square&logo=instagram&logoColor=white): [Instagram](https://www.instagram.com/mayank.jonwal02/)
-- ![LinkedIn](https://img.shields.io/badge/-Mayank%20Jonwal-0077b5?style=flat-square&logo=linkedin&logoColor=white): [LinkedIn](https://www.linkedin.com/in/mayank-jonwal-b79a5a1ba/)
+- [![Instagram](https://img.shields.io/badge/-mayank.jonwal02-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mayank.jonwal02/)
+- [![LinkedIn](https://img.shields.io/badge/-Mayank%20Jonwal-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-jonwal-b79a5a1ba/)
+
 
 ## 🛠️ Tech Stack
 ### Languages & Frameworks
@@ -52,8 +53,4 @@ Feel free to reach out to me on:
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-7E7E7E?style=flat-square&logo=espressif&logoColor=white)
 ![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-333333?style=flat-square&logo=beaglebone&logoColor=white)
 
-## 📈 GitHub Stats
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankjonwal02&show_icons=true&theme=radical)
 
-## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankjonwal02&layout=compact&theme=radical)
