@@ -11,6 +11,9 @@ I am a passionate software development enthusiast with a keen interest in integr
 - Game Development
 - Deep Learning and Computer Vision
 - Internet of Things (IoT)
+- DevOps and Cloud Computing
+- Agentic AI Systems
+- Distributed Messaging Systems
 
 ## 🌱 Current Learning
 I am continuously learning and improving my skills in:
@@ -18,9 +21,12 @@ I am continuously learning and improving my skills in:
 - Web Development: **ReactJS**, **NodeJS**, **ExpressJS**, **Next.js**, **TypeScript**, **Django**, **Spring Boot**
 - Deep Learning and Computer Vision: **TensorFlow**, **PyTorch**, **MediaPipe**, **OpenCV**, **DeepFace**
 - IoT: **Arduino**, **Raspberry Pi**, **NodeMCU**, **BeagleBone Black**
+- DevOps: **Docker**, **Kubernetes**, **AWS**, **Azure**, **GCP**
+- Agentic AI: **LangChain**, **LangGraph**, **CrewAI**, **AutoGen**
+- Messaging: **Kafka**, **RabbitMQ**
 
 ## 💞️ Collaboration
-I am looking to collaborate on development projects that involve software/application development and ML integration. Let's create something amazing together!
+I am looking to collaborate on development projects that involve software/application development, ML integration, or cutting-edge technologies like Agentic AI and DevOps. Let's create something amazing together!
 
 ## 📫 Contact Me
 Feel free to reach out to me on:
@@ -28,6 +34,7 @@ Feel free to reach out to me on:
 - [![LinkedIn](https://img.shields.io/badge/-Mayank%20Jonwal-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-jonwal-b79a5a1ba/)
 
 ## 🛠️ Tech Stack
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -52,9 +59,13 @@ Feel free to reach out to me on:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Socket Programming](https://img.shields.io/badge/Socket%20Programming-009688?style=flat-square&logo=socketdotio&logoColor=white)
 
 ### Development
+
 #### Android-IOS App Development
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -103,4 +114,20 @@ Feel free to reach out to me on:
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-7E7E7E?style=flat-square&logo=espressif&logoColor=white)
 ![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-333333?style=flat-square&logo=beaglebone&logoColor=white)
 
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+### Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-000000?style=flat-square&logo=autogen&logoColor=white)
+
+### Messaging
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
